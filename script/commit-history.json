@@ -38,17 +38,36 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "933b72b71a9e10f57c993912d58bc5717b10e1e7",
     "author": "isa-hida",
     "commit": {
       "date": "2026-08-18T15:47:57.000Z",
       "message": "fix:button",
-      "url": "https://github.com/isa-hida/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/isa-hida/TDDLabBaseProject/commit/933b72b71a9e10f57c993912d58bc5717b10e1e7"
     },
     "stats": {
       "total": 32,
       "additions": 13,
       "deletions": 19,
+      "date": "2026-08-18"
+    },
+    "coverage": 50,
+    "test_count": 2,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "isa-hida",
+    "commit": {
+      "date": "2026-08-18T15:52:16.000Z",
+      "message": "HTML improvements",
+      "url": "https://github.com/isa-hida/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
       "date": "2026-08-18"
     },
     "coverage": 50,
