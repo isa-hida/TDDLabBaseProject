@@ -1,0 +1,14 @@
+[
+  {
+    "commitId": "dc6311d0320b2f6eeba1321e79a7de6b676fb2f7",
+    "commitName": "feat: multiplicador",
+    "commitTimestamp": 1787063045109,
+    "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Initial commit: Proyecto base inicializado",
+    "commitTimestamp": 1787063088678,
+    "testId": 1
+  }
+]
