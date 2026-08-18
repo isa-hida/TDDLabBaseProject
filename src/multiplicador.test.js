@@ -1,4 +1,4 @@
-import sumar from "./multiplicador.js";
+import multiplicar from "./multiplicador.js";
 
 describe("Multiplicar", () => {
     it("deberia multiplicar dos numeros", () => {

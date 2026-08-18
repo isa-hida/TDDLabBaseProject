@@ -24,9 +24,15 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "19450391efb8ac20d13a332012d42d1132cd429b",
     "commitName": "HTML improvements",
     "commitTimestamp": 1787068338889,
     "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Añadida funcionalidad de multiplicador",
+    "commitTimestamp": 1787069454922,
+    "testId": 5
   }
 ]
